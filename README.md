@@ -1,5 +1,5 @@
 <h1>Hello! This is Shoegazer</h1>
-<p>Here are the shopee link of the items on my wishlist. Some of these are already Php 250-300.</p>
+<p>Here are the shopee links of the items on my wishlist. Some of these are already Php 250-300.</p>
 <br>
 <a href="https://shp.ee/xmnnpjj">Sakura Micron Pen</a>
 <br>
